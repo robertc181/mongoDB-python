@@ -43,3 +43,10 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+
+mongo "mongodb+srv://myfirstcluster.n0en1.mongodb.net/myFirstDB" --username root
+qzkJt9mPgEVXfWDR
+
+
+mongodb+srv://root:<password>@myfirstcluster.n0en1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
